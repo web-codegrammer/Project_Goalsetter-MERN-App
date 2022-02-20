@@ -1,6 +1,6 @@
 # Goalsetter MERN app
 
-This is the goalsetter app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
+This is the Goalsetter MERN Stack App with the implementation of REST API(CRUD Operations) in it.
 
 ## Usage
 
@@ -25,6 +25,4 @@ npm run server
 
 ## Demo
 
-I am not sure how long this will be up
-
-https://mernappbrad.herokuapp.com/
+Live Link will be updated soon...
