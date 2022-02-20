@@ -1,6 +1,6 @@
 # Goalsetter MERN app
 
-This is the goalsetter app.
+This is the Goalsetter MERN Stack App with the implementation of REST API(CRUD Operations) in it.
 
 ## Usage
 
