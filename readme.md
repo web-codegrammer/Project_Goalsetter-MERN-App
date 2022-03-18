@@ -1,12 +1,15 @@
 # Goalsetter MERN app
 
-This is the goalsetter app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
+This is the goalsetter MERN App in which User Can:
+- Register and make their account
+- After Registering Login into their respective account
+-  Set their Goals
 
 ## Usage
 
 Rename the .envexample to .env and add your MONGO_URI
 
-### Install dependencies
+### Install node dependencies
 
 ```
 # Backend deps
@@ -23,8 +26,6 @@ npm install
 npm run server
 ```
 
-## Demo
+## Live Here
 
-I am not sure how long this will be up
-
-https://mernappbrad.herokuapp.com/
+https://mernappdevgoalsetter.herokuapp.com/
