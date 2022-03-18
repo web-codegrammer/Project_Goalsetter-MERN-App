@@ -36,6 +36,6 @@ https://mernappdevgoalsetter.herokuapp.com/
 
 ## Project is Licensed Under the
 
-[MIT License](https://github.com/web-codegrammer/DevSecops-Test-Pipeline/blob/main/LICENSE)
+[MIT License](https://github.com/web-codegrammer/Project_Goalsetter-MERN-App/blob/main/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2022-2023 [web-codegrammer](https://github.com/web-codegrammer)
