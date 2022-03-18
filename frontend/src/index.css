@@ -52,6 +52,20 @@ h3 {
   margin-bottom: 60px;
 }
 
+.footer{
+  margin-top: 2rem;
+  padding: 0.5rem;
+  background-color: rgb(235, 195, 64);
+  position: absolute;
+  left: 50%;
+  top: 93%;
+  width: 100%;
+  text-align: center;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
 .header ul {
   display: flex;
   align-items: center;
