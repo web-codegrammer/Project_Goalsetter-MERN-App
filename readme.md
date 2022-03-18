@@ -21,7 +21,6 @@ npm install
 ```
 
 ### Run Server
-
 ```
 npm run server
 ```
@@ -29,9 +28,11 @@ npm run server
 ## Live Here
 https://mernappdevgoalsetter.herokuapp.com/
 
+
 ## Taken Reference from
 
 `Brad Traversy's` [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
+
 
 ## Project is Licensed Under the
 
